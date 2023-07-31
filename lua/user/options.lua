@@ -32,6 +32,7 @@ lvim.builtin.nvimtree.setup.view.side = "left"
 lvim.builtin.nvimtree.setup.renderer.icons.show.git = true
 lvim.builtin.nvimtree.setup.filters.custom = {}
 
+
 lvim.builtin.treesitter.ignore_install = {}
 lvim.builtin.treesitter.highlight.enabled = true
 
@@ -45,7 +46,6 @@ lvim.builtin.project.patterns = {
 }
 
 vim.opt.shell = "/bin/zsh"
-lvim.format_on_save = true
 
 vim.o.linebreak = true
 vim.o.wrap = false
